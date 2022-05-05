@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  background-color: #28A745;
+}
+
+nav img {
+  height: 1.563rem;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 1.25rem;
+  color: #212529;
+}
+
+.card-business {
+  font-weight: 300;
+  font-size: 1rem;
+  color: #707070;
+  margin: 0;
+  padding-bottom: 4px;
+}
+
+.card-place p{
+  font-weight: 300;
+  font-size: 1rem;
+  color: #707070;
+  margin: 0;
+}
+
+.fa-solid {
+  color: #707070;
+  padding-right: 4px;
+  padding-top: 3px;
+}
+
+hr.solid {
+  border-top: 1px solid #bbb;
+}
+
+.price {
+  font-weight: 300;
+  font-size: 1rem;
+  color: #707070;
+  margin-bottom: 0;
+}
+
+.discount {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #28A745;
+  margin-bottom: 0;
+}
+
+form {
+  background-color: #28A745;
+}
+
+form p {
+  font-weight: 500;
+  font-size: 1.313rem;
+  color: #FFFFFF;
+}
+
+.form-control {
+  font-weight: 300;
+  color: #707070;
+  font-size: 1rem;
+}
+
+form .btn {
+  font-weight: 500;
+}
+
+footer p {
+  font-weight: 300;
+  font-size: 1rem;
+  color: #707070;
+  text-align: center;
+}
+
+footer img {
+  height: 1.5rem;
+}
